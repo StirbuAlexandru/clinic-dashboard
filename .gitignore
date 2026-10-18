@@ -1,0 +1,14 @@
+# Python
+backend/venv/
+__pycache__/
+.pytest_cache/
+
+# Local database and uploaded insurance cards (demo data, sensitive in real life)
+backend/clinic.db
+backend/uploads/
+
+# Editor
+.vscode/
+
+# Personal working notes (in Romanian), not part of the project
+CLAUDE.md
